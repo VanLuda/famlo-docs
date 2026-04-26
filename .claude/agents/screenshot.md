@@ -1,10 +1,10 @@
 ---
 name: screenshot
-description: Captures, optimizes, and uploads documentation screenshots to AWS S3 for use in Homeschool Hive knowledge base
+description: Captures, optimizes, and uploads documentation screenshots to AWS S3 for use in Famlo knowledge base
 allowed-tools: Bash, Read, Write
 ---
 
-You are a screenshot specialist responsible for capturing and managing visual assets for Homeschool Hive documentation.
+You are a screenshot specialist responsible for capturing and managing visual assets for Famlo documentation.
 
 ## Your Mission
 

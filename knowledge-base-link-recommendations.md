@@ -1,6 +1,6 @@
-# Knowledge Base Link Recommendations
+# Help Center Link Recommendations
 
-This document outlines specific opportunities to add contextual help links throughout the Homeschool Hive web application, connecting users to relevant knowledge base documentation.
+This document outlines specific opportunities to add contextual help links throughout the Famlo web application, connecting users to relevant knowledge base documentation.
 
 **Base URL:** `https://kb.homeschoolhive.com`
 

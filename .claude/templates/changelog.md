@@ -1,6 +1,6 @@
 # Changelog Template
 
-Use this template when creating new changelog entries for Homeschool Hive.
+Use this template when creating new changelog entries for Famlo.
 
 ---
 

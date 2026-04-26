@@ -1,6 +1,6 @@
 ---
 name: changelog
-description: Write a changelog entry for a Homeschool Hive release. ALWAYS use the changelog agent.
+description: Write a changelog entry for a Famlo release. ALWAYS use the changelog agent.
 user-invocable: true
 ---
 
